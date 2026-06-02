@@ -39,7 +39,7 @@ swiftc -O -sdk $(xcrun --show-sdk-path) jiggler.swift -o Jiggler
 
 ## 📄 License
 
-This project is open-source. Feel free to modify and build upon it!
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and build upon it!
 
 ---
 
