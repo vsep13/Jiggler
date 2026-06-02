@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="masked_icon.png" width="128" height="128" alt="Jiggler App Icon" />
+  <img src="AppIcon.png" width="128" height="128" alt="Jiggler App Icon" />
 </p>
 
 # Jiggler
