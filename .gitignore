@@ -1,0 +1,7 @@
+# macOS System Files
+.DS_Store
+
+# Build Artifacts & Output
+Jiggler.app/
+Jiggler.zip
+Jiggler
