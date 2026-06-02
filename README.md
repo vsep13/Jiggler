@@ -1,6 +1,11 @@
-# 🎛️ Jiggler
+<p align="center">
+  <img src="masked_icon.png" width="128" height="128" alt="Jiggler App Icon" />
+</p>
+
+# Jiggler
 
 A lightweight, premium macOS menubar application built in pure Swift that keeps your system active. It prevents sleep and idle states with customizable jiggle styles, smart idle detection, and battery safety features.
+
 
 ---
 
